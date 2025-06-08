@@ -1,6 +1,3 @@
-# CPP-Programs
-A collection of basic C++ programs and concepts for learning.
-
 # 🚀 C++ Basics – Foundational Programs
 
 This repository is a personal collection of C++ programs designed to explore and understand the fundamentals of the C++ programming language. It focuses on clarity, practice, and step-by-step learning.
