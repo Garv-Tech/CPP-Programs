@@ -1,8 +1,7 @@
-run = "g++ helloworld.cpp -o helloworld && ./helloworld"
+run = "bash .run.sh"
 [nix]
 channel = "stable-24_05"
 
 
 [deployment]
 run = ["sh", "-c", "g++ helloworld.cpp -o helloworld && ./helloworld"]
-
