@@ -46,9 +46,12 @@ The goal of this repository is to:
 
 ## 🛠 Developer Notes
 
-This project contains a hidden utility script named `.run.sh` used specifically for Replit.
-It allows the developer to compile and run any C++ file by selecting it from a list, making testing more efficient without manually updating the run command each time. 
-This script is not part of the learning material and can be safely ignored by viewers or contributors exploring the code.
+This project contains hidden utility scripts to streamline development in Replit:
+
+- `.run.sh` — Allows compiling and running any C++ file by selecting it from a list, making testing efficient without manually updating the run command each time.  
+- `.push.sh` — A helper script to automate Git commands. It prompts for the file/folder to add and commit message, then adds, commits, and pushes to GitHub in one step.
+
+These scripts are **not part of the learning material** and can be safely ignored by viewers or contributors exploring the code.
 
 ---
 
