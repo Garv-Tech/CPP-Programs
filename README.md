@@ -1,69 +1,71 @@
 # 🚀 C++ Basics – Foundational Programs
 
-This repository is a personal collection of C++ programs designed to explore and understand the fundamentals of the C++ programming language. It focuses on clarity, practice, and step-by-step learning.
+This repository is a personal collection of C++ programs aimed at exploring and understanding the core fundamentals of the C++ programming language. It emphasizes **clarity**, **hands-on practice**, and **progressive learning**.
 
 ---
 
 ## 📚 Topics Covered
 
-- Input and Output operations
-- Data types and variables
+- Input and output operations  
+- Data types and variables  
+
+> *(More topics coming soon — see [🧠 Future Additions](#-future-additions))*
 
 ---
 
 ## 🎯 Purpose
 
-The goal of this repository is to:
-- Strengthen the basics of C++ with simple, focused examples
-- Build confidence in writing and running C++ code
-- Serve as a reference and revision material for core concepts
+This repository is intended to:
+- Reinforce the basics of C++ through concise, focused examples  
+- Help beginners gain confidence in writing and debugging C++ code  
+- Act as a reference point and revision toolkit for foundational concepts  
 
 ---
 
 ## 🛠️ How to Use
 
-- Clone the repo or download the files  
-- Open in any C++-compatible IDE or Replit  
-- Run and modify each file to understand how the logic works  
-- Use this as a sandbox to experiment and learn
+- Clone or fork the repository  
+- Open it in any C++ IDE or **Replit** (recommended for cloud usage)  
+- Browse the `src/` directory for `.cpp` files  
+- Use the `.run.sh` script on Replit to select and run programs interactively  
+- Try modifying programs or adding your own examples to strengthen your understanding  
 
 ---
 
 ## 🧠 Future Additions
 
-- Operators and expressions
-- Conditional statements (`if`, `else`, `switch`)
-- Looping constructs (`for`, `while`, `do-while`)
-- Functions and parameter handling
-- Arrays and basic memory layout
-- Introduction to pointers and addresses
-- Object-Oriented Programming (OOP)
-- File handling and streams
-- Basic data structures (linked lists, stacks, queues)
-- Practical mini-projects
+The repository will gradually expand to include:
+
+- Operators and expressions  
+- Conditional statements (`if`, `else`, `switch`)  
+- Looping constructs (`for`, `while`, `do-while`)  
+- Functions and parameter passing  
+- Arrays and basic memory layout  
+- Introduction to pointers  
+- Object-Oriented Programming (OOP) fundamentals  
+- File handling and streams  
+- Basic data structures (linked lists, stacks, queues)  
+- Practical mini-projects for hands-on application  
 
 ---
 
-## 🛠 Developer Notes
+## 🔧 Developer Utilities
 
-This project contains hidden utility scripts to streamline development in Replit:
+> These are helper scripts used during development on Replit. Viewers can safely ignore them.
 
-- `.run.sh` — Allows compiling and running any C++ file by selecting it from a list, making testing efficient without manually updating the run command each time.  
-- `.push.sh` — A helper script to automate Git commands. It prompts for the file/folder to add and commit message, then adds, commits, and pushes to GitHub in one step.
-
-These scripts are **not part of the learning material** and can be safely ignored by viewers or contributors exploring the code.
+- `.run.sh` – Select and run any C++ file from the `src/` directory. It compiles the file and runs the output from `executables/` folder.  
+- `.push.sh` – Automates Git workflows. Prompts for file and commit message, then adds, commits, and pushes changes in one step.  
 
 ---
 
 ## 🙏 Credits
 
-While this repository is written from scratch and customized for personal learning, it draws inspiration from various tutorials online.  
-Special thanks to **Bro Code** for providing an excellent C++ video resource that helped in understanding and practicing foundational concepts.  
-You can check out the tutorial here: [C++ Full Course – Bro Code](https://www.youtube.com/watch?v=GQp1zzTwrIg)
+While all programs are written from scratch for learning purposes, this project takes inspiration from popular online tutorials.  
+Special thanks to **Bro Code** for an excellent [C++ Full Course](https://www.youtube.com/watch?v=GQp1zzTwrIg), which served as a foundational learning path.
 
 ---
 
 ## 🤝 Contributions
 
-Fork the repo, improve it, or expand the examples to make it even more useful for learners. Learning grows faster when shared!
-
+Feel free to fork the repo, suggest improvements, or expand it with new examples.  
+Learning is better when shared — let's build it together!
