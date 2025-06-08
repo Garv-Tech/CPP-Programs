@@ -2,5 +2,7 @@ run = "g++ helloworld.cpp -o helloworld && ./helloworld"
 [nix]
 channel = "stable-24_05"
 
+
 [deployment]
 run = ["sh", "-c", "g++ helloworld.cpp -o helloworld && ./helloworld"]
+
